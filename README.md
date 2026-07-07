@@ -24,11 +24,6 @@ The analysis was performed using Microsoft Excel with Power Query, Pivot Tables,
 13. Deliverables
 14. Author
 
-1. 📌 Project Overview
-
-This project analyzes a Food Ordering Behavior Dataset containing 50,000 customer orders across India. The goal was to uncover customer ordering patterns, delivery performance, customer satisfaction, and business insights using Microsoft Excel.
-
-The project demonstrates the complete data analysis workflow, from data cleaning and transformation to interactive dashboard creation for business decision-making.
 
 ---
 
@@ -131,10 +126,9 @@ Operational Dashboard
 • Delivery Performance
 • Order Time Analysis
 • Restaurant Type Analysis
-
-## 📊 Dashboard Preview
-
 ![Food Ordering Dashboard](<img width="904" height="551" alt="Food Ordering Distributon" src="https://github.com/user-attachments/assets/6f4bfe2a-27a4-4132-a4c6-8126aa215adb" />)
+
+-----
 
 
 8. 📈 KPIs & Metrics
@@ -202,5 +196,6 @@ Adeyemi Kaosarat
 Aspiring Data Analyst passionate about data storytelling, business intelligence, and dashboard design.
 
 - LinkedIn: https://linkedin.com/in/adeyemi-kaosarat-451ab635a/
-- GitHub: www.github.com/adeyemikaosarat# Food-Ordering-Behavior-Analysis
+- GitHub: www.github.com/adeyemikaosarat
+- # Food-Ordering-Behavior-Analysis
 Food ordering behavior dashboard analysis using Excel and Power Query
