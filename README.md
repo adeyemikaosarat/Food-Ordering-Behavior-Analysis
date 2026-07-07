@@ -72,7 +72,8 @@ Repository
 │
 ├──Food-Ordering-Behavior-Analysis/
 │   ├── Dashboard/                            # dashboard screenshot
-│   └── Dataset/                              # Original CSV dataset
+│   ├── Dataset/                              # Original CSV dataset
+│   └── Documentation
 │
 └──README.md                                 # Project documentation and overview
 
