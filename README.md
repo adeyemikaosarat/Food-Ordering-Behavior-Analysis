@@ -65,12 +65,6 @@ The analysis was performed using **Microsoft Excel** with **Power Query, Pivot T
 # 📂 Repository Structure
 
 ```
-## 📂 Repository Structure
-
-```text
-## 📂 Repository Structure
-
-```text
 Repository
 │
 ├──  Food-Ordering-Behavior-Analysis/
