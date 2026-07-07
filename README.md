@@ -68,14 +68,25 @@ The analysis was performed using **Microsoft Excel** with **Power Query, Pivot T
 ## 📂 Repository Structure
 
 ```text
+## 📂 Repository Structure
+
+```text
 Repository
 │
-├──Food-Ordering-Behavior-Analysis/
-│   ├── Dashboard/                            # dashboard screenshot
-│   ├── Dataset/                              # Original CSV dataset
-│   └── Documentation
-│
-└──README.md                                 # Project documentation and overview
+├──  Food-Ordering-Behavior-Analysis/
+│   │
+│   ├── Dashboard/                          # Contains the interactive Excel dashboard and dashboard preview
+│   │   ├── Food Ordering Dashboard.xlsx
+│   │   └── Food Ordering Distributon.PNG
+│   │
+│   ├── Dataset/                            # Contains the original dataset used for the analysis
+│   │   └── food_ordering_behavior_Overview.csv
+│   │
+│   ├── Documentation/                      # Contains the business insights report
+│      └── Food_Ordering_Insights_Report.pdf
+│   
+└── README.md                           # Project documentation and overview
+
 
 ```
 
