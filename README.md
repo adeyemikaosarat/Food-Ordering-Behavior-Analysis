@@ -65,13 +65,17 @@ The analysis was performed using **Microsoft Excel** with **Power Query, Pivot T
 # 📂 Repository Structure
 
 ```
-Food-Ordering-Behavior-Analysis/
+## 📂 Repository Structure
+
+```text
+Repository
 │
-├── Dataset/
-├── Dashboard/
-├── Documentation/
-├── Images/
-└── README.md
+├──Food-Ordering-Behavior-Analysis/
+│   ├── Dashboard/                            # dashboard screenshot
+│   └── Dataset/                              # Original CSV dataset
+│
+└──README.md                                 # Project documentation and overview
+
 ```
 
 ---
