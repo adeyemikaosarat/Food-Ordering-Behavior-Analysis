@@ -140,7 +140,9 @@ The dataset contains approximately **50,000 food orders** across multiple cities
 
 ### Dashboard Screenshot
 
-![Food Ordering Dashboard](Food-Ordering-Behavior-Analysis/Dashboard/Food%20Ordering%20Distribution.PNG)
+## Dashboard Preview
+
+![Food Ordering Dashboard](./Dashboard/Food%20Ordering%20Distribution.PNG)
 
 > Replace the image path with your actual screenshot location.
 
