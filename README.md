@@ -90,14 +90,36 @@ Repository
 
 The project followed these steps:
 
-1. Imported the raw dataset into Excel.
-2. Cleaned and transformed the data using Power Query.
-3. Checked for missing values and duplicate records.
-4. Standardized data formats.
-5. Created Pivot Tables for analysis.
-6. Built Pivot Charts for visualization.
-7. Added interactive slicers for filtering.
-8. Designed an interactive dashboard for storytelling.
+```
+📄 Raw CSV Dataset
+        │
+        ▼
+📥 Import Data into Microsoft Excel
+        │
+        ▼
+🧹 Clean & Transform Data (Power Query)
+        │
+        ▼
+🔍 Check for Missing Values & Remove Duplicates
+        │
+        ▼
+🛠️ Standardize Data Formats
+        │
+        ▼
+📊 Create Pivot Tables
+        │
+        ▼
+📈 Build Pivot Charts
+        │
+        ▼
+🎛️ Add Interactive Slicers
+        │
+        ▼
+📋 Design Interactive Dashboard
+        │
+        ▼
+💡 Generate Business Insights & Recommendations
+```
 
 ---
 
